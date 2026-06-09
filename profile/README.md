@@ -65,6 +65,23 @@ Join the conversation on [IKE&#8217;s Zulip](https://ike.zulipchat.com)—an ope
 
 File bugs and enhancement requests in [ike-issues](https://github.com/IKE-Network/ike-issues) — one tracker across all components, with a dropdown to tag the affected layer.
 
+## Powered by IKE
+
+Building on or integrating with IKE? Show it with the **Powered by IKE** badge.
+
+<a href="https://ike.network">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ike.network/brand/powered-by/powered-by-ike-color-on-dark.svg">
+    <img alt="Powered by IKE" height="28" src="https://ike.network/brand/powered-by/powered-by-ike-color-on-light.svg">
+  </picture>
+</a>
+
+Grab the files, snippets, and usage rules at **[ike.network/brand](https://ike.network/brand.html)**. Quick Markdown:
+
+```markdown
+[![Powered by IKE](https://ike.network/brand/powered-by/powered-by-ike-color-on-light.svg)](https://ike.network)
+```
+
 ---
 
 **Topics:** knowledge graphs · description logic · terminology management · clinical informatics · SNOMED CT · LOINC · RxNorm · EL++ · clinical decision support · version control · STAMP · ontology · healthcare AI · OWL
